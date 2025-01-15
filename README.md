@@ -1,8 +1,9 @@
-# React + Vite
+# Cine Rental 🎥🍿
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Cine Rental** is a React-based web application that allows users to browse, add, and manage movies in their cart for renting. It includes basic features such as adding/removing movies, viewing notifications, and showing movie details.
+## Features
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add to Cart**: Add movies to your rental cart.
+- **Remove from Cart**: Remove movies from your cart easily.
+- **Notifications**: Get real-time notifications when actions (add/remove) are performed.
+- **Responsive Design**: Fully responsive UI for all devices.
